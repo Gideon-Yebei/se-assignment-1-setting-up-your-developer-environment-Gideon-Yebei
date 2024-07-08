@@ -1,3 +1,8 @@
+---
+layout: default
+title: WINDOWS DEV SETUP
+---
+
 # Windows 11 Dev Setup
 
 ## Select Your Operating System (OS)
