@@ -1,6 +1,7 @@
 ---
 layout: default
 title: WINDOWS DEV SETUP
+permalink: /WINDOWS.html
 ---
 
 # Windows 11 Dev Setup
